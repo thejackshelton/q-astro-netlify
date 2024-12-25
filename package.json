@@ -19,9 +19,10 @@
   },
   "dependencies": {
     "@astrojs/check": "^0.9.4",
-    "@builder.io/qwik": "^1.11",
+    "@astrojs/netlify": "^6.0.1",
+    "@builder.io/qwik": "^1.12",
     "@qwikdev/astro": "https://pkg.pr.new/QwikDev/astro/@qwikdev/astro@6d96827",
-    "astro": "5.0.2"
+    "astro": "5.1.1"
   },
   "devDependencies": {
     "@biomejs/biome": "^1.7.0"

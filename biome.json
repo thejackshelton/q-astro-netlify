@@ -14,13 +14,13 @@
         "noShoutyConstants": "warn"
       }
     },
-    "ignore": [".astro", "dist", "node_modules"]
+    "ignore": [".astro", "dist", "node_modules", "**/.netlify/**"]
   },
   "formatter": {
     "enabled": true,
     "formatWithErrors": false,
     "indentStyle": "space",
     "lineWidth": 80,
-    "ignore": [".astro", "dist", "node_modules"]
+    "ignore": [".astro", "dist", "node_modules", "**/.netlify/**"]
   }
 }
